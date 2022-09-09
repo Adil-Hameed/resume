@@ -17,7 +17,7 @@ export default function Home() {
                 <div className="space-y-3">
                     <img src={Adil} alt="" className="rounded-full w-64 h-64 mx-auto" />
                     <h1 className="text-center font-semibold text-4xl">
-                        Engr. Adil Hameed
+                        Engr. Adil Hameed 2022
                     </h1>
                     <p className="text-center text-gray-400 text-xl py-1">Front End Developer</p>
                     <div className="flex  items-center justify-center">
